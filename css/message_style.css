@@ -71,6 +71,7 @@ div#box2 #write{
     font-size: 150%;
     height: 80%;
     margin-top: 8%;
+    overflow:auto;
 }
 div#box2 #date{
     float: right;
